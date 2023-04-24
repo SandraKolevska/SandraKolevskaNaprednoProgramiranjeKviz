@@ -1,0 +1,12 @@
+1.Koe ezero e najgolemo ?; a)Prespansko; b)Ohridsko; c)Dojransko
+2.Na koj poluostrov se naogja Italija ?; a)Apeninski; b)Pirinejski; c)Balkanski
+3.So koja matematicka funkcija se presmetuva koren od broj ?; a)pow(); b)max(); c)sqrt()
+4.Koja od ovie ne pretstavuva podatocna struktura ?; a)Baza na Podacoti; b)Lista; c)Niza
+5.Kako ushte se narekuvaat dvodimenzionalnite polinja ?; a)Nizi; b)Matrici; c)Stringovi
+6.Znacite vo forma triagolnik se znaci za ?; a)Zabrana; b)Izvestuvanje; c)Opasnost
+7.Koj e najgolemiot okean ?; a)Pacifik; b)Atlanski; c)Indiski
+8.Vo koj kontinent se naoga Maroko ?; a)Azija; b)Afrika; c)Evropa
+9.Koi od ovie nacini e tocen za zgolemuvanje na brojach ?; a)brojach++; b)brojach+; c)1+brojach; d)brojach=brojach+1; e)brojach+1=brojach
+10.Koi se oficijalni jazici vo Finska ?; a)Danski; b)Ruski; c)Finski; d)Islandski; e)Shvedski
+11.Koi jazici se vo slovenska grupa ?; a)Italijanski; b)Srpski; c)Romanski; d)Evrejski; e)Cheshki
+12.Promenliva na decimalen broj moze da se deklarira so kluchnite zborovi ?; a)char; b)int; c)float; d)long; e)double
